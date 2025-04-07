@@ -1,0 +1,3 @@
+I’m a developer with a knack for turning ideas into reality. I thrive on challenges—like building a healthcare app in a hackathon—and enjoy blending creativity with tech. My focus is on web development, and user-friendly design, all aimed at solving real-world problems. Whether it’s simplifying medical reports or connecting people to doctors, I’m driven by impact.
+
+Currently, I’m diving deep into React, exploring AI, and chasing wins at hackathons. When I’m not coding, you might find me brainstorming my next big idea or cheering for my favorite team!
