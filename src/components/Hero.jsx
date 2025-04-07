@@ -69,7 +69,7 @@ const Hero = () => {
             <div className="relative w-full aspect-square bg-gradient-to-br from-indigo-200 to-purple-200 rounded-full overflow-hidden flex items-center justify-center">
              
               <img 
-                src="public/anushka_professional.jpg" 
+                src="./anushka_professional.jpg" 
                 alt="Anushka Jain" 
                 className="w-5/6 h-5/6 object-cover rounded-full" 
               />
