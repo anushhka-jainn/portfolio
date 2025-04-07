@@ -10,7 +10,7 @@ const Projects = () => {
     {
       title: "MedAI",
       description: "A web application designed to empower users by simplifying healthcare access and understanding.This project combines three core features: a Report Analyzer, a Doctor Finder, and a Disease Predictor, with an integrated mental wellness chatbot",
-      image: "public/medaiphoto.png",
+      image: "./medaiphoto.png",
       tags: ["react", "Springboot", "tailwind", "Python", "MySQL"],
       
       codeUrl: "https://github.com/anushhka-jainn/MedAI",
@@ -19,7 +19,7 @@ const Projects = () => {
     {
       title: "LiveSketch",
       description: "Developed a real-time collaborative sketching platform enabling multiple users to draw together seamlessly. ",
-      image: "public/livesketchphoto.jpg",
+      image: "./livesketchphoto.jpg",
       tags: ["react", "next.js", "Node.js", "Express.js", "WebSockets", "Turborepo", "PostgreSQL", " Prisma ORM", "Typescript"],
       
       codeUrl: "https://github.com/tyagi077/live-sketch",
@@ -28,7 +28,7 @@ const Projects = () => {
     {
       title: "PassOP",
       description: "Developed a robust web Application for managing and organizing user credentials securely.Features include editing, saving, and deleting passwords. ",
-      image: "public/passopphoto.png",
+      image: "./passopphoto.png",
       tags: ["react.js", "MongoDB", "Express.js", "ailwind CSS"],
       demoUrl: "https://pass-manager-theta.vercel.app/",
       codeUrl: "https://github.com/anushhka-jainn/PassManager",
